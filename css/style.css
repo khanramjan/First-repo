@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+    font-size: 15px;
+    border: 10px solid rgba(255, 0, 0, 0.779);
+    border-radius: 10px;
+    margin: 10px 20px 30px 20px;
+}
+
+span {
+    color: green;
+    font-size: 20px;
+}
+
+section {
+    text-align: justify;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 30%;
+    margin: 50px;
+    padding: 5px;
+    display: inline-block;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 20%;
+    border: 1px solid black;
+    padding: 2px;
+}
